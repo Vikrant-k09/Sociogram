@@ -1,8 +1,8 @@
-# Instagram Clone
+# Sociogram
 
 ## Overview
 
-This is a clone of Instagram for educational purposes. It replicates basic features such as photo sharing, user profiles, and social interactions.
+Sociogram is a modern social photo-sharing platform inspired by Instagram, built for learning and experimentation. It replicates core features such as photo sharing, user profiles, and social interactions.
 
 ## Features
 
@@ -16,7 +16,7 @@ This is a clone of Instagram for educational purposes. It replicates basic featu
 
 1. **Run the Application:**
    - Ensure you have Node.js installed.
-   - Clone the repository: `git clone https://github.com/yourusername/instagram-clone.git`
+   - Clone the repository: `git clone https://github.com/yourusername/sociogram.git`
    - Install dependencies: `npm install`
    - Start the server: `npm start`
    - Open your browser and go to `http://localhost:3000`.
@@ -26,7 +26,7 @@ This is a clone of Instagram for educational purposes. It replicates basic featu
 
 ## Security Note
 
-Please be aware that Google might display a phishing warning due to the nature of this clone. Rest assured, this site is safe to use for educational purposes.
+Please be aware that your browser might display a phishing warning due to the nature of this clone. Rest assured, this site is safe to use for educational purposes.
 
 ## Disclaimer
 
