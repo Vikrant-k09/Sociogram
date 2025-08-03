@@ -208,8 +208,8 @@ Sociogram prioritizes user experience with a clean, intuitive interface that ada
 
 For questions, suggestions, or collaboration opportunities, please reach out through:
 - GitHub Issues
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-profile
+- Email: vik.t.905@gmail.com
+- LinkedIn: www.linkedin.com/in/vikrant-kp
 
 ---
 
